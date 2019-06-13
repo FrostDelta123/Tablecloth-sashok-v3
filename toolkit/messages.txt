@@ -1,0 +1,11 @@
+restart-kick-message:Сервер перезагружается!
+toolkit-shutdown-kick-message:Сервер отключён!
+hold-kick-message:Сервер отключён!
+restart-time-warning:**Сервер перезагрузится через %t**
+restart-warning:**Сервер перезагружается!**
+toolkit-shutdown-time-warning:**Сервер отключится через %t**
+toolkit-shutdown-warning:**Сервер отключается!**
+hold-warning:**Сервер отключается!**
+auto-save-start:
+auto-save-complete:
+restart-time-left:Time until next restart: %t
